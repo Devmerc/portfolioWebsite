@@ -1,0 +1,136 @@
+* {
+	color:lawngreen;
+}
+
+body {
+	background-image: url(https://s-media-cache-ak0.pinimg.com/originals/6d/8a/c1/6d8ac1a8888d08305e9a707359099cd0.jpg);
+	background-size: cover;
+}
+
+div.panel-default {
+	padding-left: 1em;
+	margin-left: 1em;
+	min-height:200px;
+	background-color: rgba(77, 77, 77, 0.3);
+	overflow-y: auto;
+}
+
+div.panel-body img {
+	float: left;
+	border-radius: 30px;
+}
+
+div.panel-body p {
+	margin-left: 12em; 
+}
+
+nav.navbar {
+	background-color: gainsboro;
+}
+
+div.navbar-header a.navbar-brand {
+	font-family: Audiowide;
+	font-size: 2em;
+	background-color: lawngreen;
+	color:#563d7c;
+	border-radius: 10px;
+}
+
+div.navbar-header a.navbar-brand:hover {
+	background-color: #563d7c;
+	color: lawngreen;
+}
+
+button.navbar-toggle {
+	background-color: lawngreen;
+
+}
+
+ul.dropdown-menu {
+	background-color: lawngreen;
+}
+
+div#sociallinks ul li {
+	background-color: lawngreen;
+	border-radius: 10px;
+	display: inline-block;
+	padding: 1em;
+	margin: 1em;
+	color: #563d7c;
+}
+
+
+div#sociallinks ul li i {
+	color: #777; 
+}
+
+div#sociallinks ul li:hover {
+	background-color:#563d7c; 
+	color: lawngreen;
+}
+
+div#skillslist ul {
+	list-style-type: none;
+	background-color: #777;	
+	padding-top: 1em;
+	padding-bottom: 1em;
+	width:20%
+	}
+
+div#skillslist ul li {
+	font-size: 1.5em;
+	color: #563d7c;
+}
+
+body h3 {
+	font-family: Audiowide;
+}
+
+div.job {
+	background-image: url(http://resolver.kb.nl/resolve?urn=urn:gvn:SFA03:SFA001009058&size=large);
+	background-size: cover;
+}
+
+div#biography {
+	background-image: url(http://everystockphoto.s3.amazonaws.com/books_Olympus_ompc_79830_o.jpg);
+	background-size: cover;
+}
+
+div#biography div.panel-body p {
+	font-weight: bold;
+	background-color: #777;
+	padding: 0.25em 1em;
+}
+
+div#contactinfo-container {
+	background-image: url(https://timwolversonphotos.files.wordpress.com/2016/06/old-telephone-switchboard.jpg);
+	background-size: cover;
+	list-style-type: none;
+}
+
+div#contactinfo ul {
+	list-style-type: none;
+}
+
+div#contactinfo ul li{
+	margin:1em;
+	padding: 0.25em 1em;
+	font-weight: bold;
+	background-color: #777;
+
+}
+
+div#workexp {
+	background-image: url(https://c1.staticflickr.com/6/5532/9678471768_f10ee6b07c_b.jpg);
+	background-size: 100% 100%;
+}
+
+div#sociallinks-container {
+	background-image: url(https://cdn.pixabay.com/photo/2015/10/09/13/25/draft-beer-979210_960_720.jpg);
+	background-size: cover;
+}
+
+div#skillslist-container{
+	background-image: url(https://s-media-cache-ak0.pinimg.com/originals/0d/2d/ff/0d2dff91b56d7075a1e1674bf73963d7.jpg);
+	background-size: 100% 100%;
+}
